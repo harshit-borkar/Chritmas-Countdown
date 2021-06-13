@@ -9,7 +9,7 @@ body{
     background-image: url("bells.jpg");
     background-position: top center;
     background-size: cover;
-
+    font-family: 'Dancing Script', cursive;
     margin: 0;
     display: flex;
     flex-direction: column;
